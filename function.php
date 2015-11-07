@@ -64,4 +64,3 @@ function getTradayNum($startDate, $endDate, $isTraday)
     return $notradaysNum;
 }
 
-echo getTradayNum(20151101,20151107,0);
